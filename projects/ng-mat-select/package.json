@@ -1,0 +1,15 @@
+{
+  "name": "@ashish-core/ng-mat-select",
+   "version": "1.0.0",
+  "description": "Angular mat select library",
+  "keywords": [],
+  "author": "Ashish Pillai",
+  "license": "ISC",
+  "peerDependencies": {
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
